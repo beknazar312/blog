@@ -21,5 +21,7 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 
 //jjkjkjkj
 //sdcsecsev
+//test 2
+//ggg
 
 
